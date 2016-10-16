@@ -14,6 +14,7 @@ innovation here.
 
 ## Power supply
 
-It can be powered by 5-16v if a voltage regulator is used (LP2985 or mic5205). The IA171 can be 
-powered by 2.8 - 5.5V so its possible to use it without any voltage regulator if you have a stable 
-power supply in that range  - bridge pins 1 and 5 (top pins) of the VREG.
+The splitter was designed to be powered by 5-16v if a 3.3v voltage regulator is used (LP2985 or mic5205). 
+The IA171 can be powered by 2.8-5.5V so its possible to use it without any voltage regulator if you have a stable 
+power supply in that range - bridge pins 1 and 5 (top pins) of the VREG and
+applu 2.8-5.5v to any of the 3 pin connectors (middle pin).
