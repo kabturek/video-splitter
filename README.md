@@ -10,7 +10,7 @@ the regulator).
 ## Design
 
 This is really a mashup of 2 reference designs - IA171 and LP2985 so no big
-innovation here.
+innovation here. According to the datasheet the IA171 can drive to 75ohm loads.
 
 ## Power supply
 

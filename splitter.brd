@@ -8,20 +8,20 @@
 </settings>
 <grid distance="25" unitdist="mil" unit="mm" style="lines" multiple="1" display="no" altdistance="12.5" altunitdist="mil" altunit="mm"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="yes"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="yes"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="yes"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
@@ -160,9 +160,9 @@
 <text x="3.4925" y="14.605" size="1.6764" layer="26" rot="SMR180">v</text>
 <text x="22.225" y="11.7475" size="1.6764" layer="26" rot="SMR180">v</text>
 <text x="22.225" y="3.4925" size="1.6764" layer="26" rot="SMR180">v</text>
-<text x="1.27" y="4.7625" size="1.27" layer="26" rot="SMR180">Power 5-16v</text>
-<text x="1.27" y="6.6675" size="1.016" layer="26" rot="SMR180">kabturek 2016</text>
-<text x="1.27" y="2.2225" size="1.4224" layer="26" rot="SMR180">Video Splitter</text>
+<text x="1.27" y="5.3975" size="1.27" layer="26" rot="SMR180">Power 5-16v</text>
+<text x="1.27" y="7.3025" size="1.016" layer="26" rot="SMR180">kabturek 2016</text>
+<text x="1.27" y="3.4925" size="1.4224" layer="26" rot="SMR180">Video Splitter</text>
 <text x="0.635" y="16.8275" size="1.27" layer="26" rot="SMR180">Input</text>
 <text x="13.97" y="16.8275" size="1.27" layer="26" rot="SMR180">Output</text>
 <text x="18.415" y="14.2875" size="1.27" layer="26" rot="SMR180">1</text>
@@ -171,6 +171,7 @@
 <text x="3.81" y="0.635" size="0.8128" layer="25">CC BY-SA 4.0</text>
 <text x="6.35" y="13.97" size="0.8128" layer="26" rot="SMR180">CC BY-SA 4.0</text>
 <text x="8.5725" y="2.8575" size="0.6096" layer="25">LP2985</text>
+<text x="1.27" y="1.27" size="0.8128" layer="26" rot="SMR180">github.com/kabturek/video-splitter</text>
 </plain>
 <libraries>
 <library name="SparkFun-Passives">
