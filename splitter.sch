@@ -2358,7 +2358,7 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <part name="C1" library="SparkFun-Passives" deviceset="CAP" device="0805" value="0.1uF"/>
 <part name="C2" library="SparkFun-Passives" deviceset="CAP_POL" device="1206" value="22uF"/>
 <part name="R1" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES" value="75R"/>
-<part name="C3" library="SparkFun-Passives" deviceset="CAP_POL" device="3528" value="100uf"/>
+<part name="C3" library="SparkFun-Passives" deviceset="CAP_POL" device="3528" value="100uF"/>
 <part name="R2" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES" value="75R"/>
 <part name="R3" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES" value="75R"/>
 <part name="GND2" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
@@ -2372,10 +2372,10 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <part name="SUPPLY5" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
 <part name="SUPPLY6" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
 <part name="GND7" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="C6" library="SparkFun-Passives" deviceset="CAP_POL" device="1206" value="22uf"/>
+<part name="C6" library="SparkFun-Passives" deviceset="CAP_POL" device="1206" value="22uF"/>
 <part name="VREG" library="Seeed-OPL-ic" deviceset="PMIC-LP2985-33DBVR(SOT23-5)" device="" value="LP2985-33DBVR"/>
 <part name="C7" library="Seeed-OPL-Capacitor" deviceset="CERAMIC-10NF-50V-5%-X7R(0805)" device="" value="10nF"/>
-<part name="C4" library="SparkFun-Passives" deviceset="CAP_POL" device="1206" value="22uf"/>
+<part name="C4" library="SparkFun-Passives" deviceset="CAP_POL" device="1206" value="22uF"/>
 </parts>
 <sheets>
 <sheet>
